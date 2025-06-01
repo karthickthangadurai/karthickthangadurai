@@ -196,7 +196,7 @@ timeline
     2022-2023 : Data Science Specialist
               : ML Model Development
               : 20% reduction in student dropout
-    2023-2025 : Tech Lead - Placements
+    2023-2025 : Senior Data Science Specialist
               : AI-driven Analytics
               : 200% placement rate increase
     2025-Present : GPTfy - AI R&D Engineer
